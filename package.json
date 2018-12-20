@@ -1,0 +1,16 @@
+{
+  "author": "RCN",
+  "description": "Marmojs-sdk-example",
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.ts",
+  "name": "marmojs-sdk-example",
+  "scripts": {
+    "prepare": "npm run test && npm build"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "marmojs": "^0.2.4"
+  }
+}
