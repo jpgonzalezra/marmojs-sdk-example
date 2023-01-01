@@ -11,6 +11,6 @@
   },
   "version": "0.0.1",
   "dependencies": {
-    "marmojs": "^0.2.4"
+    "marmojs": "^0.2.19"
   }
 }
